@@ -1,0 +1,10 @@
+C:\Users\marco\Desktop\analizador lexico\analizador_lexico\analizador_lexico\obj\Debug\analizador_lexico.csprojAssemblyReference.cache
+C:\Users\marco\Desktop\analizador lexico\analizador_lexico\analizador_lexico\obj\Debug\analizador_lexico.Form1.resources
+C:\Users\marco\Desktop\analizador lexico\analizador_lexico\analizador_lexico\obj\Debug\analizador_lexico.Properties.Resources.resources
+C:\Users\marco\Desktop\analizador lexico\analizador_lexico\analizador_lexico\obj\Debug\analizador_lexico.csproj.GenerateResource.cache
+C:\Users\marco\Desktop\analizador lexico\analizador_lexico\analizador_lexico\obj\Debug\analizador_lexico.csproj.CoreCompileInputs.cache
+C:\Users\marco\Desktop\analizador lexico\analizador_lexico\analizador_lexico\bin\Debug\analizador_lexico.exe.config
+C:\Users\marco\Desktop\analizador lexico\analizador_lexico\analizador_lexico\bin\Debug\analizador_lexico.exe
+C:\Users\marco\Desktop\analizador lexico\analizador_lexico\analizador_lexico\bin\Debug\analizador_lexico.pdb
+C:\Users\marco\Desktop\analizador lexico\analizador_lexico\analizador_lexico\obj\Debug\analizador_lexico.exe
+C:\Users\marco\Desktop\analizador lexico\analizador_lexico\analizador_lexico\obj\Debug\analizador_lexico.pdb
